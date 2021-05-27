@@ -1,0 +1,10 @@
+<p>add-barber works!</p>
+
+<div style="text-align:center">
+    <input [(ngModel)]="input.barberName" placeholder="username">
+    <input [(ngModel)]="input.barberPassword" placeholder="password" type="password">
+    <input [(ngModel)]="input.barberEmail" placeholder="email">
+    <button (click)="addBarber()">Salvar</button>
+</div>
+
+<router-outlet></router-outlet>

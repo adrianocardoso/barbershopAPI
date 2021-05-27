@@ -1,0 +1,20 @@
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Nome do Cliente</th>
+            <th>Email</th>
+            <th>CPF</th>
+            <th>Barbeiro</th>
+            <th>Horário</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let dataItem of ScheduleList">
+            <td>{{dataItem.clientName}}</td>
+            <td>{{dataItem.clientEmail}}</td>
+            <td>{{dataItem.clientCPF}}</td>
+            <td>{{dataItem.appointed_time}}</td>
+            <td>{{dataItem.selected_barber}}</td>
+        </tr>
+    </tbody>
+</table>
