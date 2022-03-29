@@ -39,6 +39,6 @@ O usuário poderá reservar um horário.
 
 O botão Acessar Painel leva a uma tela (http://localhost:4200/barbeiro) onde o profissional poderá fazer o login (http://localhost:4200/auth) ou se registrar (http://localhost:4200/adicionar-barbeiro)
 
-## Dificuldades
+## Em Andamento
 
-Apesar de a lógica estar toda aí o projeto está longe de terminar. Existe um problema com o método POST onde a base de dados recusa a inserção de inserções. A logica de autenticação está funcionando, mas novamente só dá para testar se fizer o input direto pelo SQLiteStudio. Além disso o layout foi pouco ou quase nada trabalhado, só peguei o bootstrap para deixar a coisa mais apresentável.
+## Empresa Solicitante: Stairs Digital
