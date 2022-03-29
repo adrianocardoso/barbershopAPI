@@ -1,6 +1,7 @@
 # BarbershopAPI
 
-Para esse projeto foram utilizados o Django 2, Angular 12 e Python 3 com SQLite
+Esse é um esboço para o projeto da barbearia.
+Foram utilizados o Django 2, Angular 12 e Python 3 com SQLite
 
 Para testar os métodos GET e POST pode ser utilizado o programa Postman e para acessar a base de dados o SQLiteStudio é uma boa opção
 
